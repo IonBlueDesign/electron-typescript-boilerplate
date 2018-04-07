@@ -1,0 +1,28 @@
+{
+	"name": "electron-typescript-boilerplate",
+	"version": "0.1.0",
+	"description": "Electron + TypeScript boilerplate",
+	"main": "dist/js/main.js",
+	"scripts": {
+		"start": "electron .",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/IonBlueDesign/electron-typescript-boilerplate.git"
+	},
+	"keywords": [
+		"Electron",
+		"TypeScript",
+		"Boilerplate"
+	],
+	"author": "Anthony Howarth",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/IonBlueDesign/electron-typescript-boilerplate/issues"
+	},
+	"homepage": "https://github.com/IonBlueDesign/electron-typescript-boilerplate#readme",
+	"devDependencies": {
+		"electron": "1.8.4"
+	}
+}
